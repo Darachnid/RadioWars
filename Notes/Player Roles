@@ -3,7 +3,6 @@
 1. **Intelligence Operator**
    - **Purpose**: Coordinates team strategy using real-time data and manages resources.
    - **Equipment**: Command center with screens, maps, and communication devices.
-   - **Special Ability**: "Resource Allocation" – redistributes in-game currency for strategic purchases.
 
 2. **Sharpshooter**
    - **Purpose**: Engages in tactical combat to neutralize opponents.
@@ -20,17 +19,12 @@
    - **Equipment**: Equipment for planting virtual mines, stealth gear.
    - **Special Ability**: "EMP Blast" – temporarily disables electronic devices in a small area.
 
-7. **Economist**
-   - **Purpose**: Manages team's resources and oversees economic strategies.
-   - **Equipment**: Tablet with access to the game's economic system, communication tools.
-   - **Special Ability**: "Market Insight" – predicts resource availability and price fluctuations.
-
-9. **Medic**
+6. **Medic**
    - **Purpose**: Provides in-field support to team members, reviving or repairing gear.
    - **Equipment**: Medical kit, repair tools.
    - **Special Ability**: "Field Revive" – quickly restores a disabled team member's capabilities.
 
-10. **Scout**
+7. **Scout**
    - Gathers intelligence on enemy positions and valuable resources.
    - Uses stealth and speed to navigate the terrain.
    - Special ability: "Ghost Mode" - temporary invisibility to IR detection.
