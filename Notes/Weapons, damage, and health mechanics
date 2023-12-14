@@ -1,0 +1,13 @@
+# Weapons, damage, and health mechanics
+
+## Health Thresholds
+
+Health thresholds are variables that depend on a player's roles.
+
+- Incapacitation: A player is incapacitated when health is below this threshold
+
+## Damage Thresholds
+
+Damage thresholds are variables that depend on a player's roles and the amount of time it took to incur damage. A damage threshold must be met in a period of time that depends on the target's role.
+
+- Drop flag: A player holding the flag must drop it if the player takes x damage in y seconds.
