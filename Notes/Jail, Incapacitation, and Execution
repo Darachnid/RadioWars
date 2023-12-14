@@ -2,14 +2,18 @@ Jail, Incapacitation, and Execution Mechanics
 
 1. Engagement and Capture Mechanics
 
-	•	Capture: When hit by an IR gun, players are “captured” and can be taken to a jail within the captor’s territory.
+	•	Capture: Incapacitated or surrendered players can be taken to a jail within the captor’s territory.
 	•	Jail: Jails are holding areas for captured players. Captured players are freed if their team takes over the jail.
+2. Surrender
+
+	•	A player who chooses to surrender cannot carry the flag, and must drop it immediately if holding it at the time of surrender.
+	•	All weapons held by the player are deactivated during the surrender.
 
 2. Incapacitation Mechanics
 
-	•	Incapacitation: Captured players hit with additional IR shots become “incapacitated.”
-	•	Communication Restriction: Incapacitated players cannot move, engage in gameplay actions, or communicate in any form.
-	•	Vulnerability: Incapacitated players are vulnerable to execution and must wait for a Medic for revival.
+	•	Incapacitation: Captured players hit with additional IR shots become “incapacitated.” A player must drop the flag when incapacitated.
+	•	Restriction: Incapacitated players cannot move or engage in gameplay actions.
+	•	Vulnerability: Incapacitated players are vulnerable to capture and execution and must wait for a Medic for revival.
 
 3. Medic Role in Reactivation
 
