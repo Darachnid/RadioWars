@@ -1,6 +1,8 @@
 # Radio Wars Equipment Archive
 
-The Radio Wars Equipment Archive is a curated collection of design blueprints and specifications for the equipment used in the Radio Wars game. This archive serves multiple purposes:
+The Radio Wars Equipment Archive is a curated collection of design blueprints and specifications for the equipment used in the Radio Wars game. 
+
+## Purpose
 
 1. **Learning and Innovation**: It provides an opportunity for players to delve into the technological aspects of the game, fostering learning and innovation. Players can explore different designs, understand how they work, and even contribute their own ideas.
 
